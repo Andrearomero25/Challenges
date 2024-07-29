@@ -1,5 +1,5 @@
 
-# Encriptador de texto
+# 🔏💻🔐Encriptador de texto
 
 **Descripción:**
 
@@ -28,11 +28,11 @@ gaitober" => "gato"
 - El resultado debe ser mostrado en la pantalla.
 
 
-## Autora
+## 👩‍💻 Autora
 
 - [@andrearomero25](https://github.com/Andrearomero25/Challenges)
 
-## Lenguajes
+## ✔️ Lenguajes
 
 HTML, CSS, JS
 
