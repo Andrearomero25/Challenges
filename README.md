@@ -36,3 +36,5 @@ gaitober" => "gato"
 
 HTML, CSS, JS
 
+
+![Captura de pantalla](https://github.com/user-attachments/assets/30ddd89a-f88c-42d1-83ae-a0c41bac2d6c)
